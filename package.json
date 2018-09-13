@@ -1,0 +1,8 @@
+{
+  "name": "maximepawlak-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MaximePawlakFr/site.git",
+  "author": "Maxime Pawlak <contact@maximepawlak.fr>",
+  "license": "MIT"
+}
