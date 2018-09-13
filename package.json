@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:MaximePawlakFr/site.git",
   "author": "Maxime Pawlak <contact@maximepawlak.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server src/"
+  },
+  "dependencies": {}
 }
