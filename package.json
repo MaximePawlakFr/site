@@ -6,7 +6,11 @@
   "author": "Maxime Pawlak <contact@maximepawlak.fr>",
   "license": "MIT",
   "scripts": {
-    "serve": "live-server src/"
+    "serve": "live-server src/",
+    "deploy": "gh-pages -d src/"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
