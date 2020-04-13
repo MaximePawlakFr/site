@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "start": "live-server src",
-    "build": "rm ./public/*.** && cp ./src/** ./public/",
+    "build": "rm ./public/*.** && cp -r ./src/** ./public/",
     "deploy": "firebase deploy"
   }
 }
