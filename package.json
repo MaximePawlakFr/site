@@ -7,6 +7,7 @@
   "author": "Maxime Pawlak <contact@maximepawlak.fr>",
   "license": "MIT",
   "scripts": {
-    "start": "live-server src"
+    "start": "live-server src",
+    "build": "rm ./public/*.** && cp ./src/** ./public/"
   }
 }
