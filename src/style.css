@@ -59,6 +59,15 @@
   display: none;
 }
 
+.ui.social.social {
+  width: 3rem;
+  height: 3rem;
+}
+
+.ui.social.social.kaggle {
+  width: unset;
+}
+
 @media only screen and (max-width: 700px) {
   .ui.fixed.menu {
     display: none !important;
